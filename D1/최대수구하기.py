@@ -7,5 +7,5 @@ for test_case in range(1, T + 1):
     for num in a:
         if num > max:
         	max = num
-    print('#%d' % test_case, max)
+print('#%d' % test_case, max)
     # ///////////////////////////////////////////////////////////////////////////////////
